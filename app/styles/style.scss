@@ -1,0 +1,23 @@
+body {
+  font-family: 'Muli', sans-serif;
+  padding-top: 70px;
+}
+
+.avatar {
+  img {
+    max-width: 100%;
+  }
+}
+
+.notes {
+  padding-top: 10px;
+  background-color: rgb(253, 247, 122);
+  margin-top: 25px;
+}
+
+a {
+  color: #AAAAAA;
+  &:hover {
+    cursor: pointer;
+  }
+}
